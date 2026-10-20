@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unittest.loader._FailedTest-20261020130531" tests="1" file="unittest/loader.py" time="0.000" timestamp="2026-10-20T13:05:32" failures="0" errors="1" skipped="0">
+	<testcase classname="unittest.loader._FailedTest" name="test_calculator_Elias_Ghanem" time="0.000" timestamp="2026-10-20T13:05:32">
+		<error type="ImportError" message="Failed to import test module: test_calculator_Elias_Ghanem
+Traceback (most recent call last):
+  File &quot;C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\unittest\loader.py&quot;, line 137, in loadTestsFromName
+    module = __import__(module_name)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'calculator_Elias_Ghanem.test_calculator_Elias_Ghanem'
+"><![CDATA[Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 58, in testPartExecutor
+    yield
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 634, in run
+    self._callTestMethod(testMethod)
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\unittest\case.py", line 589, in _callTestMethod
+    if method() is not None:
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\unittest\loader.py", line 33, in testFailure
+    raise self._exception
+    ^^^^^^^^^^^^^^^^^
+ImportError: Failed to import test module: test_calculator_Elias_Ghanem
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\unittest\loader.py", line 137, in loadTestsFromName
+    module = __import__(module_name)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'calculator_Elias_Ghanem.test_calculator_Elias_Ghanem'
+
+]]></error>
+	</testcase>
+</testsuite>

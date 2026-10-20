@@ -1,0 +1,9 @@
+Collecting coverage
+  Using cached coverage-7.16.2-cp312-cp312-win_amd64.whl.metadata (8.4 kB)
+Collecting mock
+  Using cached mock-5.2.0-py3-none-any.whl.metadata (3.1 kB)
+Using cached coverage-7.16.2-cp312-cp312-win_amd64.whl (226 kB)
+Using cached mock-5.2.0-py3-none-any.whl (31 kB)
+Installing collected packages: mock, coverage
+
+Successfully installed coverage-7.16.2 mock-5.2.0

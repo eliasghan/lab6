@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_calculator_Elias_Ghanem.TestCalculator-20261020131102" tests="7" file="test_calculator_Elias_Ghanem.py" time="0.000" timestamp="2026-10-20T13:11:02" failures="0" errors="0" skipped="0">
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_add" time="0.000" timestamp="2026-10-20T13:11:02"/>
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_divide" time="0.000" timestamp="2026-10-20T13:11:02"/>
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_modulus" time="0.000" timestamp="2026-10-20T13:11:02"/>
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_multiply" time="0.000" timestamp="2026-10-20T13:11:02"/>
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_power" time="0.000" timestamp="2026-10-20T13:11:02"/>
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_square_root" time="0.000" timestamp="2026-10-20T13:11:02"/>
+	<testcase classname="test_calculator_Elias_Ghanem.TestCalculator" name="test_subtract" time="0.000" timestamp="2026-10-20T13:11:02"/>
+</testsuite>

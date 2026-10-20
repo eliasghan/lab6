@@ -1,0 +1,8 @@
+setup.py
+calculator_Elias_Ghanem/__init__.py
+calculator_Elias_Ghanem.egg-info/PKG-INFO
+calculator_Elias_Ghanem.egg-info/SOURCES.txt
+calculator_Elias_Ghanem.egg-info/dependency_links.txt
+calculator_Elias_Ghanem.egg-info/namespace_packages.txt
+calculator_Elias_Ghanem.egg-info/top_level.txt
+calculator_Elias_Ghanem.egg-info/zip-safe
